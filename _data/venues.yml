@@ -1,0 +1,13 @@
+# Venue badges shown next to publications. The key must match the `abbr` field in the .bib files.
+
+"Interspeech":
+  url: https://www.isca-archive.org/interspeech_2025/
+
+"AMGL":
+  url: https://lit.auth.gr/amgl44/index.html
+
+"MGDLT":
+  url: https://mgdlt.library.upatras.gr/
+
+"BMW":
+  url: https://www.bu.edu/linguistics/2026/05/12/boston-morphology-workshop-bmw/

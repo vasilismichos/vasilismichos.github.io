@@ -1,0 +1,13 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+email: michos@bu.edu # your email address
+cv_pdf: https://docs.google.com/document/d/1utOUNVGwCEjM0VWjLW4khp4GDrSyyzoA2Bv6sy38ags/edit?usp=sharing # link to your CV (Google Doc)
+linkedin_username: vasileios-michos-2ab975294 # your LinkedIn user name
+x_username: vasilis_michos # your X (formerly Twitter) handle
+# scholar_userid: # your Google Scholar ID
+# research_gate_profile: # your ResearchGate profile name (the part after /profile/)
+# orcid_id: # your ORCID ID
+# academia_edu:
+#   organization: bu
+#   username: VasileiosMichos

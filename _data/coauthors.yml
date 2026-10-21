@@ -1,0 +1,10 @@
+# Co-authors are linked automatically in the publication list when their
+# last name (key, lower case) and first name match an author in the .bib files.
+
+"batchelder-schwab":
+  - firstname: ["Andre", "A."]
+    url: https://andreschwab.com/
+
+"barnes":
+  - firstname: ["Jonathan", "J.", "Jon"]
+    url: https://ling.bu.edu/people/barnes/
